@@ -20,3 +20,4 @@ Para continuar evoluindo no entendimento da Programação Orientada a Objetos e 
     *   A explicação oficial sobre o modelo de classes do Python, escopos e namespaces.
 *   **Real Python - Object-Oriented Programming (OOP) in Python 3**
     *   Um dos melhores tutoriais práticos da comunidade para fixar conceitos de herança e propriedades.
+    
